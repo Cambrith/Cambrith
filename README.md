@@ -1,4 +1,4 @@
-# Hi, I'm Enzo (Cambrith) 👋
+# Hi, I'm Enzo Campbell (Cambrith) 👋
 
 18-year-old student from Petrópolis, Brazil 🇧🇷, finishing high school and a technical course in IT (*Técnico em Informática*), heading to Computer Science.
 
