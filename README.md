@@ -14,4 +14,4 @@ HTML · CSS · JavaScript · a little Python · Git & GitHub · Linux (Arch, KDE
 [LinkedIn](https://www.linkedin.com/in/enzo-campbell-492069428/)
 
 ---
-🇧🇷 *Também falo português. Estudante de informática aprendendo na prática.*
+🇧🇷 *Made in Brazil. Powered by café, curiosidade e erros de sintaxe.*
