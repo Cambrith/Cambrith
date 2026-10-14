@@ -5,7 +5,7 @@
 - 🤖 Passionate about **artificial intelligence** and **Linux**
 - 🖥️ The kind of person who spends the whole day configuring a PC
 - 🏆 Earned a first-place full scholarship for all of high school
-- 🌱 Learning JavaScript and Python by building real projects, like **Migalhas & Penas**, a narrative web game made with a friend → [play it](https://migalhas-e-penas.web.app)
+- 🌱 Learning by building real projects, like **Migalhas & Penas**, a narrative web game made with a friend → [play it](https://migalhas-e-penas.web.app)
 
 ### 🛠️ What I've used so far
 HTML · CSS · JavaScript · a little Python · Git & GitHub · Linux (Arch, KDE Plasma)
