@@ -1,6 +1,6 @@
 # Hi, I'm Enzo Campbell (Cambrith) 👋
 
-18-year-old student from Petrópolis, Brazil 🇧🇷, finishing high school and a technical course in IT (*Técnico em Informática*), heading to Computer Science.
+18-year-old student from Petrópolis, Brazil :brazil:, finishing high school and a technical course in IT (*Técnico em Informática*), heading to Computer Science.
 
 - 🤖 Passionate about **artificial intelligence** and **Linux**
 - 🖥️ The kind of person who spends the whole day configuring a PC
@@ -14,4 +14,4 @@ HTML · CSS · JavaScript · a little Python · Git & GitHub · Linux (Arch, KDE
 [LinkedIn](https://www.linkedin.com/in/enzo-campbell-492069428/)
 
 ---
-🇧🇷 *Made in Brazil. Powered by café, curiosidade e erros de sintaxe.*
+:brazil: *Made in Brazil. Powered by café, curiosidade e erros de sintaxe.*
